@@ -1,0 +1,7 @@
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\bin\Debug\td2 bis.exe.config
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\bin\Debug\td2 bis.exe
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\bin\Debug\td2 bis.pdb
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\obj\Debug\td2 bis.csproj.AssemblyReference.cache
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\obj\Debug\td2 bis.csproj.CoreCompileInputs.cache
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\obj\Debug\td2 bis.exe
+C:\Users\augustin.vosgien\source\repos\td2 bis\td2 bis\obj\Debug\td2 bis.pdb
